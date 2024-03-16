@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TravelingNote" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/aa</item>
+        <item name="colorPrimaryVariant">@color/aa</item>
+        <item name="colorOnPrimary">@color/aa</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/aa</item>
+        <item name="colorSecondaryVariant">@color/aa</item>
+        <item name="colorOnSecondary">@color/aa</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
